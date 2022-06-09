@@ -1,0 +1,1 @@
+//# sourceMappingURL=album.scheme.js.map
